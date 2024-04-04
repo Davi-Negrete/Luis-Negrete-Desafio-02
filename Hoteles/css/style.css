@@ -1,0 +1,90 @@
+#logo {
+    height: 220px;
+    display: block;
+    margin: auto;
+
+  
+    
+}
+
+/**  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif */
+
+h1 {
+    text-align: center;
+    color: #BB5397;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode' ;
+    font-weight: lighter;
+    letter-spacing: 10px;
+    margin-top: 0px;
+    
+}
+
+#hotel_pop_century {
+    
+    color:#BB5397;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode' ;
+    font-weight:100 ;
+    letter-spacing: 5.5px ;
+    font-size: 29px;
+    
+}
+
+p {
+    font-family:   Geneva, Verdana, sans-serif  ;
+    color: #4c5869;
+    font-size: 13px ;
+    font-weight: 500
+    
+}
+
+#pop_century {
+
+    float: right;
+    height: 200px;
+    margin-right: 10px;
+    margin-left: 15px;
+    margin-bottom: 50px;
+}
+
+
+#hotel_caribbean_beach {
+
+    color:#BB5397;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode' ;
+    font-weight:100 ;
+    letter-spacing: 5.5px ;
+    font-size: 29px;
+
+}
+
+#caribbean_beach {
+    margin-right: 15px;
+    float: left;
+    width: 360px;
+   
+}
+
+#hotel_animal_kingdom {
+
+    color:#BB5397;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode' ;
+    font-weight:100 ;
+    letter-spacing: 5.5px ;
+    font-size: 29px;
+    
+
+
+}
+
+#animal_kingdom {
+
+    float: right;
+    height: 230px;
+    margin-left: 10px;
+}
+
+#mickey_minnie {
+
+    width: 100%;
+    margin-top: 10px;
+}

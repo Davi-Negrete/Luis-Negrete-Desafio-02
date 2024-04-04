@@ -1,0 +1,132 @@
+
+:root {
+    text-align: center;
+
+
+
+}
+
+
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: #FCEA3E;
+    font-size: 40px;
+    margin-top: 20px;
+   
+}
+
+body {
+    background-color: #289688;
+
+}
+
+
+img {
+    border: 8px solid #FFFFFF;
+    margin: 5px;
+    height: 130px;
+
+
+}
+
+
+p {
+    display: inline;
+
+
+}
+
+
+
+#barcelona {
+    margin-right: 15px;
+    margin-left:  5px;
+    width: 220px;
+}
+
+#buenos_aires {
+    margin-right: 15px;
+    margin-left: -10px ;
+    width: 220px;
+
+
+}
+
+#madrid {
+    margin-right: 20px  ;
+    margin-left: -10px;
+    width: 260px;
+
+}
+
+
+#miami {
+    margin-right: 15px;
+    margin-left: -16px;
+    width: 210px;
+
+
+}
+
+#paris {
+    margin-right: 19px;
+    margin-left: -10px;
+    width: 185px;
+
+}
+
+#pipa {
+    margin-right: 0px;
+    margin-left:  -15px;
+    width: 105px;
+    
+}
+
+
+/** Separacion fla 1 de imagenes con la fila 2 de imagenes */
+
+
+
+#rio_de_janeiro {
+   margin-right: 15px;
+   margin-left: 5px;
+
+    
+}
+
+#roma {
+    margin-right: 15px;
+    margin-left: -10px;
+
+    
+}
+
+#rosario {
+    margin-right: 15px;
+    margin-left: -10px;
+
+    
+}
+
+#tokio {
+    margin-right: 15px;
+    margin-left: -10px;
+
+    
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
